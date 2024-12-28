@@ -1,3 +1,4 @@
+package maxMin;
 /**
  * programers: 최대값과 최솟값
  * https://school.programmers.co.kr/learn/courses/30/lessons/12939?language=java
@@ -8,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class ProgMaxNMin {
+public class MaxNMin {
     public static void main(String[] args) throws IOException {
         Solution solution = new Solution();
 

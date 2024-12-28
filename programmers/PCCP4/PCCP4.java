@@ -1,4 +1,4 @@
-package progPCCP4;
+package pccp4;
 /**
  * programers: PCPP 기출문제 4번 / 수식 복원하기
  * https://school.programmers.co.kr/learn/courses/30/lessons/340210
@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class ProgPCCP4 {
+public class Pccp4 {
     public static void main(String[] args) throws IOException {
         Solution solution = new Solution();
 

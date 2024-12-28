@@ -1,3 +1,4 @@
+package progPCCP4;
 /**
  * programers: PCPP 기출문제 4번 / 수식 복원하기
  * https://school.programmers.co.kr/learn/courses/30/lessons/340210
